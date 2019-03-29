@@ -1,0 +1,12 @@
+// babelrc 必须符合json语法规范，不能写注释，字符串必须双引号
+{
+    "presets": ["env", "stage-0"],
+    "plugins": ["transform-runtime", ["component", [{
+        "libraryName": "mint-ui",
+        "style": true
+        }]
+    ],
+    "transform-remove-strict-mode"
+],
+
+}

@@ -1,0 +1,12 @@
+/* 官网安装最新nodejs */
+1、安装node环境
+
+
+
+/* 安装依赖包 */
+2、npm install
+
+
+
+/* 运行 */
+3、运行npm run dev
